@@ -1,6 +1,6 @@
 <!-- DIVIDER 1 -->
 <p align="center">
-' welcome to my github, greenie '
+' welcome to my github, greenie. '
 </p>
 <!-- DIVIDER 1 -->
 <p align="center">
@@ -8,7 +8,7 @@
 </p>
 <!-- ANIMATION TEXT -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Baloo+2&size=48&pause=1200&color=D6C6AB&center=true&vCenter=true&width=1400&height=100&lines=%22i+can't,+newt.%22;%22KILL+ME!+kill+me+or+i+kill+you!%22;%22i+can't,+newt.+I+CANT!%22;%22goddamit,+thomas..+KILL+ME!%22;%22please+tommy,+please.%22">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Baloo+2&size=48&pause=1200&color=D6C6AB&center=true&vCenter=true&width=1400&height=100&lines=%22i+can't,+newt.%22;%22KILL+ME!+kill+me+or+i'll+kill+you!%22;%22i+can't,+newt.+I+CANT!%22;%22goddamit,+thomas..+KILL+ME!%22;%22please+tommy,+please.%22">
 </p>
 <!-- RIGHT IMAGE -->
 <img align="right"
@@ -26,7 +26,7 @@ comfortable names:   newt / june   |\    she / him -~
   </p>
 <!-- DIVIDER 1 -->
 <p align="center">
-     i hate proshippers, preds, any kind or problematic people
+     i hate proshippers, preds, any kind of problematic people
 </p>
 <!-- DIVIDER 1 -->
 <p align="center">
