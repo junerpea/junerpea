@@ -36,6 +36,11 @@ comfortable names:   newt / june   |\    she / him -~
 <p align="center">
       i don't feel like putting everything in here so check out:
 </p>
+<!-- DIVIDER 1 -->
+<p align="center">
 <a href="https://puppyliken.straw.page/">strawpage of (mostly) everything</a>_ _ _ _ _ _ _ _ _ _ _ _ _<a href="https://rentry.co/gpnxdcu6">things you NEED to know</a>
-
+</p>
+  <!-- DIVIDER 1 -->
+<p align="center">
 <a href="https://junerpeacoolest.atabook.org/">atabook</a>
+</p>
